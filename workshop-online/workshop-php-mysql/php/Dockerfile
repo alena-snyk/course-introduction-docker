@@ -1,4 +1,4 @@
-FROM php:7.3.0-apache-stretch
+FROM php:7.3.29-apache-stretch
 
 RUN set -x \
     && apt-get update \
