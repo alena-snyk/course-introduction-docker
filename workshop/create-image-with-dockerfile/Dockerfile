@@ -1,2 +1,2 @@
-FROM nginx:1.15.6
+FROM nginx:mainline
 COPY ./web/index.html /usr/share/nginx/html/index.html
