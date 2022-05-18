@@ -1,2 +1,2 @@
-FROM nginx:1.14
+FROM nginx:mainline
 COPY nginx.conf /etc/nginx/nginx.conf
