@@ -1,4 +1,4 @@
-FROM nginx:1.18.0
+FROM nginx:latest
 
 # the executable
 ENTRYPOINT ["curl"]
