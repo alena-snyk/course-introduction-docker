@@ -9,6 +9,6 @@
   "dependencies": {
     "express": "^4.14.1",
     "mustache-express": "^1.2.4",
-    "pg": "^7.4.1"
+    "pg": "^8.4.0"
   }
 }
